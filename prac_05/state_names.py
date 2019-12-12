@@ -1,7 +1,7 @@
 
 STATE_NAMES = {"QLD": "Queensland", "NSW": "New South Wales", "NT": "Northern Territory", "WA": "Western Australia",
                "ACT": "Australian Capital Territory", "VIC": "Victoria", "TAS": "Tasmania"}
-# print(STATE_NAMES)
+# print(STATE_NAMES)asd
 
 state = input("Enter short state: ").upper()
 while state != "":
