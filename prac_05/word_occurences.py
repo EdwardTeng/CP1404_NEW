@@ -15,6 +15,4 @@ def main():
     input_string = str(input("Text : "))
     count_word_freq(input_string)
 
-
-if __name__=="__main__":
-    main()
+main()
