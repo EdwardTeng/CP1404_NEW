@@ -12,7 +12,7 @@ def count_word_freq(input_string):
         print(" {} : {}".format(input_string_list_2[i], input_string_list.count(input_string_list_2[i])))
 
 def main():
-    input_string = str(input("Text: "))
+    input_string = str(input("Text : "))
     count_word_freq(input_string)
 
 
